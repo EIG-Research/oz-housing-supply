@@ -9,3 +9,7 @@
 *.Rhistory
 *.dbf
 *.zip
+.DS_Store
+.Rhistory
+desktop.ini
+~$*
